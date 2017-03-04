@@ -1,9 +1,11 @@
 ---
-dependencies: [oah.php]
+dependencies:
+- oah.php
+- oah.git
 
 galaxy_info:
   author: Vinod Panicker
-  description: Composer PHP Dependency Manager
+  description: Install Composer PHP Dependency Manager for OAH
   company: ""
   license: "license (BSD, MIT)"
   min_ansible_version: 2.0
